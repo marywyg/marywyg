@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Java and C++.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marywyg&layout=donut&hide=javascript,css,cmake,glsl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marywyg&layout=donut&hide=css,cmake,glsl)
 <!--
 **marywyg/marywyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
