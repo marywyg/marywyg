@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: My thesis was about stalking my hamster at night!
 
-![Maria's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marywyg&layout=donut&hide=cmake,glsl&theme=radical)
+[![Maria's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marywyg)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **marywyg/marywyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
