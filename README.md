@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Java and C++.
+🌱 I’m learning C++ and Python.
+
+🔭 I’m currently working on some fun games that come to my mind.
+
+⚡ Fun fact: My thesis was about stalking my hamster at night!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marywyg&layout=donut&hide=cmake,glsl&theme=radical)
 <!--
